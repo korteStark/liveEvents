@@ -1,9 +1,10 @@
 {
-  "clickMult": 9999,
-  "sugarMult": 10000000,
-  "message": "Update Loaded!",
+  "clickMult": 1,
+  "sugarMult": 1,
+  "message": "New Update! Sugar Lamps, Kamorik's Official Spell Book, and More!",
   "disableMagic": false
 }
+
 
 
 
