@@ -1,9 +1,21 @@
 {
   "clickMult": 1,
   "sugarMult": 1,
-  "message": "New Update! Sugar Lamps, Kamorik's Official Spell Book, and More!",
-  "disableMagic": false
+  "message": {
+    "html": "<b><span style='color:#ffffff'>New Update! </span> <span style='color:#ffffff'>Sugar Lamps, Kamorik's Official Spell Book and More! </span> <span style='color:#ffff00'>2x Golden Cookies</span></b>"
+  },
+  "disableMagic": false,
+  "grants": {
+    "id": "event_2026_01",
+    "croutons": 500000,
+    "sugarLumps": 3
+  },
+  "golden": {
+    "spawnMult": 2,
+    "wrathChance": 0
+  }
 }
+
 
 
 
