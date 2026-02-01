@@ -1,6 +1,7 @@
 {
-  "clickMult": 2,
-  "sugarMult": 4,
-  "message": "🎉 Double click rewards weekend!",
+  "clickMult": 1,
+  "sugarMult": 1,
+  "message": "New update comming soon!",
   "disableMagic": false
 }
+
