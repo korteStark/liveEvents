@@ -1,9 +1,10 @@
 {
   "clickMult": 9999,
-  "sugarMult": 1,
+  "sugarMult": 10000000,
   "message": "Update Loaded!",
   "disableMagic": false
 }
+
 
 
 
